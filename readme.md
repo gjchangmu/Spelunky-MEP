@@ -6,19 +6,19 @@ This is in beta status and any kind of comments are welcome.
 
 ### Default Prices
 
-Jump from ground: 300 each jump (jump from grabbing ledge is free)  
+Jump from ground: 400 each jump (jump from grabbing ledge is free)  
 Whip: 1500 each whip (meant to encorage you to find items)  
 Jetpack: 3000 for a full jar of gas (proportional to jetting time)  
 Cape: 1000 each use  
-Mattock: 500 each use  
-Boomerang: 500 each use  
+Mattock: 1000 each use  
+Boomerang: 1000 each use  
 Machete: 500 each use  
-Webgun: 100 each use  
+Webgun: 0 each use  
 Shotgun: 1000 each use  
-Freezegun: 500 each use  
-Cannon: 500 each use  
-Camera: 100 each use  
-Teleporter: 500 each use  
+Freezegun: 1000 each use  
+Cannon: 1000 each use  
+Camera: 0 each use  
+Teleporter: 1000 each use  
 
 Prices are adjustable in price.ini file.
 
@@ -38,3 +38,5 @@ Probably not, as this mod only makes the game harder. So I haven't made effert t
 4. The main mod program reads the two .bin files and writes the data into game memory with some manual address rebase, so that Cheat Engine is not needed any more.
 
 All the related codes (the cheat table, memreader and the main mod program) are included in the source code if anyone would want to check.
+
+by gjchangmu
