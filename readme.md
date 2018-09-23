@@ -8,6 +8,10 @@ This is in beta status and any kind of comments are welcome.
 
 Run side by side with game.
 
+### Download
+
+https://github.com/gjchangmu/Spelunky-MEP/releases/download/v0.1/Spelunky.MEP.v0.1.zip
+
 ### Default Prices
 
 Jump from ground: 400 each jump (jump from grabbing ledge is free)  
