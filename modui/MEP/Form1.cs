@@ -130,14 +130,14 @@ namespace WindowsFormsApplication1
 				// check game version
 				bool unknownversion = false;
 				byte[] checkbuff = new byte[4];
-				ret = ReadProcessMemory(processHandle, (IntPtr)((int)baseaddress + 0x10013), checkbuff, 4, ref rn);
-				if (BitConverter.ToUInt32(checkbuff, 0) != 0x3A819CA1)
+				ret = ReadProcessMemory(processHandle, (IntPtr)((int)baseaddress + 0x10018), checkbuff, 4, ref rn);
+				if (BitConverter.ToUInt32(checkbuff, 0) != 0x518B088B)
 					unknownversion = true;
 				ret = ReadProcessMemory(processHandle, (IntPtr)((int)baseaddress + 0x50008), checkbuff, 4, ref rn);
 				if (BitConverter.ToUInt32(checkbuff, 0) != 0x5B5D5E5F)
 					unknownversion = true;
-				ret = ReadProcessMemory(processHandle, (IntPtr)((int)baseaddress + 0x70000), checkbuff, 4, ref rn);
-				if (BitConverter.ToUInt32(checkbuff, 0) != 0xB60805D9)
+				ret = ReadProcessMemory(processHandle, (IntPtr)((int)baseaddress + 0x70006), checkbuff, 4, ref rn);
+				if (BitConverter.ToUInt32(checkbuff, 0) != 0x1CD95153)
 					unknownversion = true;
 				if (unknownversion)
 				{
