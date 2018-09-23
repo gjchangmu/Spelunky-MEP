@@ -36,7 +36,7 @@ You can't jump high (while you can still climb onto 1-block high blocks). You ca
 
 ### Is it a cheat?
 
-Probably not, as this mod only makes the game harder. So I haven't made effert to disable daily run, leaderboard etc.
+Probably not, as this mod only makes the game harder. So I haven't made effort to disable daily run, leaderboard etc.
 
 ### How it is made
 
@@ -45,6 +45,6 @@ Probably not, as this mod only makes the game harder. So I haven't made effert t
 3. I used memreader to read out the injected code in the newly allocated memory region and saved it into newmem.bin.
 4. The main mod program reads the two .bin files and writes the data into game memory with some manual address rebase, so that Cheat Engine is not needed any more.
 
-All the related codes (the cheat table, memreader and the main mod program) are included in the source code if anyone would want to check.
+All the related codes (the cheat table, memreader and the main mod program) are included in the source code.
 
 by gjchangmu
