@@ -14,19 +14,19 @@ https://github.com/gjchangmu/Spelunky-MEP/releases/download/v0.1/Spelunky.MEP.v0
 
 ### Default Prices
 
-Jump from ground: 400 each jump (jump from grabbing ledge is free)  
-Whip: 1500 each whip
-Jetpack: 3000 for a full jar of gas (proportional to jetting time)  
-Cape: 1000 each use  
-Mattock: 1000 each use  
-Boomerang: 1000 each use  
-Machete: 500 each use  
-Webgun: 0 each use  
-Shotgun: 1000 each use  
-Freezegun: 1000 each use  
-Cannon: 1000 each use  
-Camera: 0 each use  
-Teleporter: 1000 each use  
+Jump from ground:   400 each jump (jump from grabbing ledge is free)  
+Whip:   1500 each whip  
+Jetpack:   3000 for a full jar of gas (proportional to jetting time)  
+Cape:   1000 each use  
+Mattock:   1000 each use  
+Boomerang:   1000 each use  
+Machete:   500 each use  
+Webgun:   0 each use  
+Shotgun:   1000 each use  
+Freezegun:   1000 each use  
+Cannon:   1000 each use  
+Camera:   0 each use  
+Teleporter:   1000 each use  
 
 Prices are adjustable in price.ini file.
 
