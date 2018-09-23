@@ -1,0 +1,18 @@
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\bin\x86\Release\Spelunky MEP.exe.config
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\bin\x86\Release\Spelunky MEP.exe
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\bin\x86\Release\Spelunky MEP.pdb
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\obj\x86\Release\MEP.csprojResolveAssemblyReference.cache
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\obj\x86\Release\MEP.csproj.GenerateResource.Cache
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\obj\x86\Release\Spelunky MEP.exe
+C:\Geovens\NecroDancer-Score-Analyzer\analyzer\analyzer\obj\x86\Release\Spelunky MEP.pdb
+C:\Geovens\Spelunky MEP\modui\MEP\bin\x86\Release\Spelunky MEP.exe.config
+C:\Geovens\Spelunky MEP\modui\MEP\obj\x86\Release\Spelunky MEP.exe
+C:\Geovens\Spelunky MEP\modui\MEP\obj\x86\Release\Spelunky MEP.pdb
+C:\Geovens\Spelunky MEP\modui\MEP\bin\x86\Release\Spelunky MEP.exe
+C:\Geovens\Spelunky MEP\modui\MEP\bin\x86\Release\Spelunky MEP.pdb
+C:\Geovens\Spelunky MEP\modui\MEP\obj\x86\Release\MEP.csprojResolveAssemblyReference.cache
+C:\Geovens\Spelunky MEP\modui\MEP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Geovens\Spelunky MEP\modui\MEP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Geovens\Spelunky MEP\modui\MEP\obj\x86\Release\MEP.csproj.GenerateResource.Cache
