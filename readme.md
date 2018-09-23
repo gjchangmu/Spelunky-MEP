@@ -28,7 +28,10 @@ Cannon:   1000 each use
 Camera:   0 each use  
 Teleporter:   1000 each use  
 
-Prices are adjustable in price.ini file.
+All items in shop:   2000 to buy each  
+Runs start with 4000 gold  
+
+Prices are adjustable in price.ini file.  
 
 ### What happens if gold is used up?
 
