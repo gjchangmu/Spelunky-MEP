@@ -1,6 +1,5 @@
 /memreader/obj
-/analyzer/analyzer/obj
-/release
+/modui/MEP/obj
 
 *.pdb
 *.exp

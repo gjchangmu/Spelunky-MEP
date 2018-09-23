@@ -4,14 +4,10 @@ Spelunky Mod: Money Equals Power is a mod for Spelunky HD on steam. This mod mak
 
 This is in beta status and any kind of comments are welcome. 
 
-### How to Use
-
-Run side by side with game.
-
 ### Default Prices
 
 Jump from ground: 400 each jump (jump from grabbing ledge is free)  
-Whip: 1500 each whip
+Whip: 1500 each whip (meant to encorage you to find items)  
 Jetpack: 3000 for a full jar of gas (proportional to jetting time)  
 Cape: 1000 each use  
 Mattock: 1000 each use  
