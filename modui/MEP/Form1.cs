@@ -40,7 +40,7 @@ namespace WindowsFormsApplication1
 		static extern int GetLastError();
 
 		const int oldbase = 0x1270000;
-		const int oldstorage = 0x0CCE0000;
+		const int oldstorage = 0x011A0000;
 
 		List<int> codejumps;
 		List<int> storagejumps;
